@@ -1,0 +1,1 @@
+class CadastroDados1Model {}
